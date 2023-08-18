@@ -6,4 +6,4 @@ Aktualnie Java to mój ulubiony język programowania dlatego zdecydowałam, że 
 3) W plikach test_scenario_example i defect_example przedstawiam moje podejście do tworzenia scenariuszy testowych oraz zgłaszania błędów.
 
 Informacja dodatkowa:
-Mój kod wymaga jeszcze wielu zmian. Planuje wraz z postępem mojej nauki oba projekty rozbudowywać i ulepszać. 
+mój kod wymaga jeszcze wielu zmian. Planuje wraz z postępem mojej nauki oba projekty rozbudowywać i ulepszać. 

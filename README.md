@@ -6,6 +6,7 @@ Aktualnie Java to mój ulubiony język programowania dlatego zdecydowałam, że 
 3) W plikach test_scenario_example i defect_example przedstawiam moje podejście do tworzenia scenariuszy testowych oraz zgłaszania błędów.
 
 English below:
+
 Hello, here's a brief description of what you'll find in this repository:
 
 Currently, Java is my favorite programming language, so I've decided to gradually get to know automated testing.

@@ -1,0 +1,40 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Test"  parallel="false" >
+    <test name="All tests">
+        <classes>
+            <class name="jsonplaceholder.api.tests.users.GetUserTest"/>
+            <class name="jsonplaceholder.api.tests.users.PostUserTest"/>
+            <class name="jsonplaceholder.api.tests.users.PatchUserTest"/>
+            <class name="jsonplaceholder.api.tests.users.PutUserTest"/>
+            <class name="jsonplaceholder.api.tests.users.DeleteUserTest"/>
+            <class name="jsonplaceholder.api.tests.todos.GetTodosTest"/>
+            <class name="jsonplaceholder.api.tests.todos.PostTodosTest"/>
+            <class name="jsonplaceholder.api.tests.todos.DeleteTodosTest"/>
+            <class name="jsonplaceholder.api.tests.todos.PatchTodosTest"/>
+            <class name="jsonplaceholder.api.tests.todos.PutTodosTest"/>
+            <class name="jsonplaceholder.api.tests.posts.GetPostsTest"/>
+            <class name="jsonplaceholder.api.tests.posts.PostPostsTest"/>
+            <class name="jsonplaceholder.api.tests.posts.PatchPostsTest"/>
+            <class name="jsonplaceholder.api.tests.posts.PutPostsTest"/>
+            <class name="jsonplaceholder.api.tests.posts.DeletePostsTest"/>
+            <class name="jsonplaceholder.api.tests.photos.GetPhotoTest"/>
+            <class name="jsonplaceholder.api.tests.photos.PostPhotoTest"/>
+            <class name="jsonplaceholder.api.tests.photos.PatchPhotoTest"/>
+            <class name="jsonplaceholder.api.tests.photos.PutPhotoTest"/>
+            <class name="jsonplaceholder.api.tests.photos.DeletePhotoTest"/>
+            <class name="jsonplaceholder.api.tests.comments.GetCommentTest"/>
+            <class name="jsonplaceholder.api.tests.comments.PostCommentTest"/>
+            <class name="jsonplaceholder.api.tests.comments.PatchCommentTest"/>
+            <class name="jsonplaceholder.api.tests.comments.PutCommentTest"/>
+            <class name="jsonplaceholder.api.tests.comments.DeleteCommentTest"/>
+            <class name="jsonplaceholder.api.tests.comments.PostCommentTest"/>
+            <class name="jsonplaceholder.api.tests.albums.GetAlbumTest"/>
+            <class name="jsonplaceholder.api.tests.albums.PostAlbumTest"/>
+            <class name="jsonplaceholder.api.tests.albums.PatchAlbumTest"/>
+            <class name="jsonplaceholder.api.tests.albums.PutAlbumTest"/>
+            <class name="jsonplaceholder.api.tests.albums.DeleteAlbumTest"/>
+        </classes>
+    </test>
+</suite>
+
+

@@ -6,6 +6,7 @@ Aktualnie Java to mój ulubiony język programowania, dlatego postanowiłam rozw
 3) test_scenario_example i defect_example – pliki przedstawiają moje podejście do tworzenia scenariuszy testowych oraz zgłaszania błędów.
 4) JSONPlaceholder_automation framework – (https://jsonplaceholder.typicode.com/) prototyp frameworku REST API, który sekwencyjnie uruchamia zestawy testów oraz generuje raport z wynikami testów (REST Assured + TestNG + Gson + Extent Reports).
 5) MyStore_automation_tests - prototyp frameworku wykonujący scenariusze testowe dla strony https://mystore-testlab.coderslab.pl/ (Selenum + JUnit + Cucumber + Gherkin).
+
 English below: 
 
 Hello, here's a brief description of what you'll find in this repository:
